@@ -33,7 +33,6 @@ int main() {
     cout << "Prosciutto necessario: " << 50 * nPizzeProsciutto << "g" << endl;
     cout << "Pomodoro necessario: " << 100 * nPizzeProsciutto + 150 * nPizzeMargherita << "g" << endl;
 
-    #
     waitForKey();
 
     return 0;
